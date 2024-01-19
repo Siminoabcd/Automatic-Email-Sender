@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  },
+  "name": "auto-reminder",
+  "version": "1.0.0",
+  "description": "Automatic Email Sender",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Šimon Tariška",
+  "license": "ISC"
+}
